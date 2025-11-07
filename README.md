@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sascha Huber!
 
-🎓 ITM Student at ZHAW | 🌱 Learning Software Development
+🎓 CS Student at ZHAW | 🌱 Learning Software Development
 
 ---
 
