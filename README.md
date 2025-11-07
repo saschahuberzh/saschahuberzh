@@ -33,4 +33,4 @@
 ## 📞 Contact Me
 
 - 📧 **Email**:  hubersas@students.zhaw.ch
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/saschahuberzh)  
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/sascharalphhuberzh)  
