@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Sascha Huber!
 
-<!--
-**saschahuberzh/saschahuberzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ITM Student at ZHAW | 🌱 Learning Software Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+- 💻 **Languages**: Java, Python, JavaScript  
+- 🌐 **Frameworks & Libraries**: Spring Boot, React  
+- 🛢️ **Databases**: MySQL, PostgreSQL  
+- ⚙️ **Tools & Platforms**: Git, GitHub, Docker  
+
+---
+
+## 🛠️ Projects
+
+### 📊 [Project 1: Smart Data Dashboard](https://github.com/yourusername/project1)
+- **Tech Stack**: React, Django, PostgreSQL  
+- **Summary**: A data visualization tool for business analytics.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saschahuberzh&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?saschahuberzh=username&layout=compact&theme=radical)  
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saschahuberzh&show_icons=true&theme=transparent)
+
+---
+
+## 📞 Contact Me
+
+- 📧 **Email**:  hubersas@students.zhaw.ch
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/saschahuberzh)  
