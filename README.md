@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saschahuberzh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?saschahuberzh=username&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saschahuberzh&layout=compact&theme=radical)  
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saschahuberzh&show_icons=true&theme=transparent)
 
@@ -33,4 +33,4 @@
 ## 📞 Contact Me
 
 - 📧 **Email**:  hubersas@students.zhaw.ch
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/sascharalphhuberzh)  
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/sascha-ralph-huber-71a975193)  
