@@ -15,10 +15,10 @@
 
 ## 🛠️ Projects
 
-### 📊 [Project 1: Smart Data Dashboard](https://github.com/yourusername/project1)
-- **Tech Stack**: React, Django, PostgreSQL  
-- **Summary**: A data visualization tool for business analytics.
-
+### 📊 [Project 1: Event Planing App](https://github.com/efficient-and-fun)
+- **Tech Stack**: React, C#, PostgreSQL  
+- **Summary**: A Planing App to join events in the area.
+https://github.com/efficient-and-fun
 ---
 
 ## 📊 GitHub Stats
